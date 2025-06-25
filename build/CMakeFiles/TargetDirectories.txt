@@ -1,0 +1,3 @@
+/home/zurd/go_gl/build/CMakeFiles/OpenGLProject.dir
+/home/zurd/go_gl/build/CMakeFiles/edit_cache.dir
+/home/zurd/go_gl/build/CMakeFiles/rebuild_cache.dir

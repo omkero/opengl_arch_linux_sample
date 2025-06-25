@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/zurd/go_gl/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
