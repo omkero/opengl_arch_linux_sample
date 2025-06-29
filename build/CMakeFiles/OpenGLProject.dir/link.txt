@@ -1,1 +1,1 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/OpenGLProject.dir/link.d CMakeFiles/OpenGLProject.dir/main.cpp.o -o OpenGLProject  /usr/lib/libGLEW.so /usr/lib/libglfw.so.3.4 /usr/lib/libGLX.so /usr/lib/libOpenGL.so
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/OpenGLProject.dir/link.d CMakeFiles/OpenGLProject.dir/main.cpp.o CMakeFiles/OpenGLProject.dir/src/triangle_mesh.cpp.o -o OpenGLProject  /usr/lib/libGLEW.so /usr/lib/libglfw.so.3.4 /usr/lib/libGLX.so /usr/lib/libOpenGL.so

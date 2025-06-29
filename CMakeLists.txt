@@ -11,8 +11,8 @@ find_package(GLEW REQUIRED)
 
 add_executable(OpenGLProject
     main.cpp
-    glad.c
-    glad.h
+
+    ${CMAKE_CURRENT_SOURCE_DIR}/src/triangle_mesh.cpp
 )
 
 target_include_directories(OpenGLProject PRIVATE

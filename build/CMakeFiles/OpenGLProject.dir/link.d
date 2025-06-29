@@ -3,6 +3,7 @@ OpenGLProject: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/../../../../lib/crti.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/crtbeginS.o \
   CMakeFiles/OpenGLProject.dir/main.cpp.o \
+  CMakeFiles/OpenGLProject.dir/src/triangle_mesh.cpp.o \
   /usr/lib/libGLEW.so \
   /usr/lib/libglfw.so.3.4 \
   /usr/lib/libGLX.so \
@@ -49,6 +50,8 @@ OpenGLProject: \
 /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/crtbeginS.o:
 
 CMakeFiles/OpenGLProject.dir/main.cpp.o:
+
+CMakeFiles/OpenGLProject.dir/src/triangle_mesh.cpp.o:
 
 /usr/lib/libGLEW.so:
 

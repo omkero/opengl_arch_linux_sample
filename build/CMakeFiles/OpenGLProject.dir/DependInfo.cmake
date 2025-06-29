@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/zurd/go_gl/main.cpp" "CMakeFiles/OpenGLProject.dir/main.cpp.o" "gcc" "CMakeFiles/OpenGLProject.dir/main.cpp.o.d"
+  "/home/zurd/go_gl/src/triangle_mesh.cpp" "CMakeFiles/OpenGLProject.dir/src/triangle_mesh.cpp.o" "gcc" "CMakeFiles/OpenGLProject.dir/src/triangle_mesh.cpp.o.d"
   "" "OpenGLProject" "gcc" "CMakeFiles/OpenGLProject.dir/link.d"
   )
 

@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/OpenGLProject.dir/link.d"
   "CMakeFiles/OpenGLProject.dir/main.cpp.o"
   "CMakeFiles/OpenGLProject.dir/main.cpp.o.d"
+  "CMakeFiles/OpenGLProject.dir/src/triangle_mesh.cpp.o"
+  "CMakeFiles/OpenGLProject.dir/src/triangle_mesh.cpp.o.d"
   "OpenGLProject"
   "OpenGLProject.pdb"
 )

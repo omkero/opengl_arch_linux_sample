@@ -147,4 +147,14 @@ CMakeFiles/OpenGLProject.dir/main.cpp.o: /home/zurd/go_gl/main.cpp \
  /usr/include/c++/15.1.1/bits/locale_facets.tcc \
  /usr/include/c++/15.1.1/bits/basic_ios.tcc \
  /usr/include/c++/15.1.1/bits/ostream.tcc /usr/include/c++/15.1.1/istream \
- /usr/include/c++/15.1.1/bits/istream.tcc
+ /usr/include/c++/15.1.1/bits/istream.tcc /usr/include/c++/15.1.1/fstream \
+ /usr/include/c++/15.1.1/bits/codecvt.h \
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/basic_file.h \
+ /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++io.h \
+ /usr/include/c++/15.1.1/bits/fstream.tcc /usr/include/c++/15.1.1/sstream \
+ /usr/include/c++/15.1.1/bits/sstream.tcc /usr/include/c++/15.1.1/vector \
+ /usr/include/c++/15.1.1/bits/stl_uninitialized.h \
+ /usr/include/c++/15.1.1/bits/stl_vector.h \
+ /usr/include/c++/15.1.1/bits/stl_bvector.h \
+ /usr/include/c++/15.1.1/bits/vector.tcc \
+ /home/zurd/go_gl/src/triangle_mesh.h
