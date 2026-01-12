@@ -1,7 +1,7 @@
-## install cmake if not exist
+# install cmake if not exist
 sudo pacman -Sy cmake 
 
-# instalation glfw for window and opengl support functions
+# glfw for window and opengl support functions
 
 sudo pacman -Sy glfw
 sudo pacman -Sy glew
